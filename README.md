@@ -21,5 +21,9 @@ This project is intended for educational and portfolio purposes only. All brand 
 
 If requested by the brand or its representatives, references will be removed or modified to comply with intellectual property guidelines.
 
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/487557f7-9e5a-451f-b87d-e6993cfef88d)
+
+
 
 
