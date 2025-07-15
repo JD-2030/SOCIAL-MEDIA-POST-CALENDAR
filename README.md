@@ -20,3 +20,6 @@ The calendar is structured to support platforms like Instagram, LinkedIn, and Fa
 This project is intended for educational and portfolio purposes only. All brand names, logos, and trademarks such as Allen Solly are the property of their respective owners. The use of these names in this content calendar is purely illustrative and does not imply any affiliation, endorsement, or partnership with the brand.
 
 If requested by the brand or its representatives, references will be removed or modified to comply with intellectual property guidelines.
+
+
+
